@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG "CMakeFiles/c-psd-estimator.dir/main.c.o" "CMakeFiles/c-psd-estimator.dir/Modules/utils.c.o" "CMakeFiles/c-psd-estimator.dir/Modules/psd-estimators.c.o" -o c-psd-estimator  -lfftw3 -lm -lhackrf 
